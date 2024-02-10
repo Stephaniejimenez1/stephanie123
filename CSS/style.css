@@ -2,6 +2,27 @@
     color: blueviolet;
 } */
 
+/* se;ector apartir de una etiqueta */
 h2 {
     color: brown;
+}
+
+/* selector apartir de una clase */
+.texto-verde {
+    color: green;
+}
+
+footer {
+    color: rgb(133, 73, 83);
+}
+
+/* selector a partir de un id */
+#parrafo-rosa {
+    color: rgb(238, 135, 0);
+    font-size: 30px;
+}
+
+/* selector a partir de etiquetas combinadas */
+header p {
+    color: rgb(0, 78, 78);
 }
